@@ -1,6 +1,6 @@
 ## Welcome
 
-Hey Dude!!
+Hey There!!
 
 <span data-lift="if?extra_true=has_blog">Welcome to my blog.  Here are my most recent blog posts:</span>
 
