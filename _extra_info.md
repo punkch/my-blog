@@ -1,6 +1,6 @@
 ---
 blog_root: /blog_posts
-site_title: David's Place
+site_title: JConXTC's Place
 
 ---
 
