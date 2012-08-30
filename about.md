@@ -1,10 +1,3 @@
 ## About 
 
-I blog here.  This is a page that tells people about me.
-
-## Contact Me
-
-You can put some contact information here
-
-[title: About]: /
-[order: 20]: /
+I am a hardcore PHP4/JavaScript developer and a Scala/Lift ninja wannabe!
